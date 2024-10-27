@@ -9,12 +9,14 @@ A simple and intuitive voting application built with Flutter using Provider stat
 
 ### Voting Screen
 <img src = "/screenshot/pic1.png" width ="200" />
+
 - Main interface where users can cast their votes
 - Shows list of candidates with vote buttons
 - Bottom navigation to results page
 
 ### Results Screen - Winner
 <img src = "/screenshot/pic2.png" width ="200" />
+
 - Displays vote counts for each candidate
 - Highlights the winning candidate
 - Shows percentage of total votes
