@@ -8,39 +8,19 @@ A simple and intuitive voting application built with Flutter using Provider stat
 <summary>Click to view screenshots</summary>
 
 ### Voting Screen
-![Voting Screen](/screenshots/voting_screen.png)
+![Voting Screen](/screenshot/pic1.png)
 - Main interface where users can cast their votes
 - Shows list of candidates with vote buttons
 - Bottom navigation to results page
 
 ### Results Screen
-![Results Screen](/screenshots/results_screen.png)
+![Results Screen-Winner](/screenshot/pic2.png)
 - Displays vote counts for each candidate
 - Highlights the winning candidate
 - Shows percentage of total votes
-
+- 
+![Results Screen-Tie](/screenshot/pic3.png)
 ### How to add your own screenshots:
-
-1. Create a `screenshots` directory in your project root:
-```bash
-mkdir screenshots
-```
-
-2. Take screenshots of your app:
-    - iOS Simulator: `⌘ + S`
-    - Android Emulator: `⌘ + S` (Mac) or `Ctrl + S` (Windows)
-    - Physical Device: Use device-specific screenshot method
-
-3. Move screenshots to the project:
-```bash
-mv ~/Downloads/screenshot.png ./screenshots/voting_screen.png
-```
-
-4. Optimize images (optional):
-```bash
-# Using ImageOptim CLI
-imageoptim screenshots/*.png
-```
 
 </details>
 
@@ -223,10 +203,6 @@ of this software...
     * Initial Release
     * Basic voting functionality
     * Results display
-
-## 📞 Support
-
-For support, email your-email@example.com or join our Slack channel.
 
 ## 🚀 Development
 
